@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Scott jackson
+- 👀 I’m interested in Amazon Web Services solutions utilizing IaC and Automation Pipelines
+- 📫 If you would like to reach out please visit my website: scottjackson.cloud/contact
